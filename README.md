@@ -1,4 +1,4 @@
-## 👋 Hi, Gude Yuvateja
+## 👋 Hi, I'm Gude Yuvateja
 ## 💼 Data Analyst & Business Analyst
 
 ## 🚀 About Me
