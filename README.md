@@ -24,13 +24,6 @@ improve operational efficiency.
 ## 1️⃣ Insurance Analytics Project 
 - Tools: Excel, SQL, Power BI.
 - Analyzed risk and claim patterns to generate business insights.
-  
-- 🔭 I’m currently working on: Analyzing insurance policy and claims data using SQL and Power BI.
-- 🌱 I’m currently learning: Business Analytics and advanced Python techniques.
-- 📊 Skills: SQL (MySQL), Power BI, Tableau, Advanced Excel, and Python.
-- 💼 Experience: Data Analyst Trainee at Al Variant.
-- 📫 How to reach me: g.yuvateja1870@gmail.com.
-- ⚡ Fun fact: I love turning messy datasets into clean, visual stories.
 
 ## 🎓 Certifications
 - 🏅 NASSCOM Certified Data Analyst – Feb 2026.
