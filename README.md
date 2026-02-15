@@ -33,4 +33,4 @@ improve operational efficiency.
 ## 📬 Contact
 - 📞 Phone: +91 7981524920
 - 📧 Email: g.yuvateja1870@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/gude-yuvateja-04696a370
+- 🔗 LinkedIn: hhtps:linkedin.com/in/gude-yuvateja-04696a370
