@@ -47,9 +47,8 @@ Data Analysis:
 - Performed joins, aggregations, subqueries, and window functions to analyze KPIs.
   
 ## 🎓 Certifications
-- 🏅 NASSCOM Certified Data Analyst – Feb 2026.
 - 🏅 Data Analyst Course – ExcelR Institute (Dec 2025).
-- 🏅 IoT and Its Applications – TI Microcontrollers.
+- 🏅 NASSCOM Certified Data Analyst – Feb 2026.
 
 ## 📬 Contact
 - 📞 Phone: +91 7981524920
