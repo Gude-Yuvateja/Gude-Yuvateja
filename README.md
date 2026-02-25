@@ -1,27 +1,51 @@
 ## 👋 Hi, I'm Gude Yuvateja
-## 💼 Data Analyst & Business Analyst
+## 💼 Data Analyst | Business Analyst
 
 ## 🚀 About Me
 Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcare Analytics, SQL Data Warehouse, and Data Analytics projects. Skilled in SQL, Excel, Power BI, Tableau, and Python. Passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
 ## 🛠️ Skills
-- Business Intelligence: Power BI, Tableau, Advanced Excel
-- Databases: MySQL, SQL
-- Programming: Python
-- Data Analysis: Data Cleaning, Joins, Aggregations, and Dashboard Creation.
+Databases:
+- SQL (Joins, Subqueries, CTEs, Window Functions, Indexes, Stored Procedures)
+
+Business Intelligence:
+- Power BI
+- Tableau
+- Advanced Excel
+
+Programming:
+- Python
+
+Data Analysis:
+- Data Cleaning
+- Data Transformation
+- KPI Analysis
+- Dashboard Development
 
 ## 💼 Experience
 ## Data Analyst Trainee – AI Variant 
-- Analyzed insurance policy and claims data using Excel and SQL to identify trends.
-- Cleaned and prepared datasets by handling missing values and inconsistencies.
-- Built Power BI dashboards to visualize claim frequency and customer segments.
+- Worked on Insurance Analytics and Healthcare Analytics projects.
+- Analyzed claims, policy, and patient datasets using SQL and Excel.
+- Performed data cleaning, transformation, and KPI analysis (loss ratio, follow-up rate, doctor workload).
+- Built interactive dashboards in Power BI and Tableau to support business decision-making.
 
 ## 📊 Projects
 
-## 1️⃣ Insurance Analytics Project 
-- Tools: Excel, SQL, Power BI.
-- Analyzed risk and claim patterns to generate business insights.
+## 1️⃣ Insurance Analytics Project
+- Analyzed policy and claims data to identify risk patterns and loss ratios.
+- Tools: SQL, Excel, Power BI, Tableau.
 
+## 2️⃣ Healthcare Analytics Project
+- Evaluated patient data, follow-up rates, and doctor workload.
+- Tools: SQL, Excel, Power BI, Tableau.
+  
+## 3️⃣ SQL Data Warehouse Project
+- Designed fact and dimension tables using star schema.
+- Implemented ETL processes and optimized queries in SQL Server.
+
+## 4️⃣ SQL Data Analytics Project
+- Performed joins, aggregations, subqueries, and window functions to analyze KPIs.
+  
 ## 🎓 Certifications
 - 🏅 NASSCOM Certified Data Analyst – Feb 2026.
 - 🏅 Data Analyst Course – ExcelR Institute (Dec 2025).
