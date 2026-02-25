@@ -2,10 +2,7 @@
 ## 💼 Data Analyst & Business Analyst
 
 ## 🚀 About Me
-Data Analyst and aspiring Business Analyst with hands-on experience in SQL, Excel, Power BI, and Python for data 
-cleaning and visualization. Skilled in analyzing complex datasets, identifying claim trends, and generating insights to 
-support data-driven business decisions. Committed to leveraging analytical skills to solve business problems and 
-improve operational efficiency. 
+Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcare Analytics, SQL Data Warehouse, and Data Analytics projects. Skilled in SQL, Excel, Power BI, Tableau, and Python. Passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
 ## 🛠️ Skills
 - Business Intelligence: Power BI, Tableau, Advanced Excel
