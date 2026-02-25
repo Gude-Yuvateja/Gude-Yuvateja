@@ -2,7 +2,7 @@
 ## 💼 Data Analyst | Business Analyst
 
 ## 🚀 About Me
-Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcare Analytics, SQL Data Warehouse, and Data Analytics projects. Skilled in SQL, Excel, Power BI, Tableau, and Python. Passionate about transforming raw data into meaningful insights and building data-driven solutions.
+Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcare Analytics, and Data Warehouse projects. Skilled in SQL, Python, Power BI, Excel, and Exploratory Data Analysis (EDA). Strong understanding of data cleaning, transformation, KPI analysis, and dashboard development. Experienced in writing complex queries and building end-to-end analytics solutions. Building data-driven projects to solve real-world problems.
 
 ## 🛠️ Skills
 - SQL
