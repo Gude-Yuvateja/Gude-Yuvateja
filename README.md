@@ -6,7 +6,7 @@ Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcar
 
 ## 🛠️ Skills
 Databases:
-- SQL (Joins, Subqueries, CTEs, Window Functions, Indexes, Stored Procedures)
+- SQL
 
 Business Intelligence:
 - Power BI
