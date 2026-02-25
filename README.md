@@ -5,23 +5,16 @@
 Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcare Analytics, SQL Data Warehouse, and Data Analytics projects. Skilled in SQL, Excel, Power BI, Tableau, and Python. Passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
 ## 🛠️ Skills
-Databases:
 - SQL
-
-Business Intelligence:
-- Power BI
-- Tableau
-- Advanced Excel
-
-Programming:
+- Power BI & Tableau  
+- Advanced Excel  
 - Python
-
-Data Analysis:
-- Data Cleaning
-- Data Transformation
-- KPI Analysis
-- Dashboard Development
-
+- ETL & Data Warehouse   
+- Data Cleaning & KPI Analysis
+- Data modeling
+- stakeholder Communication
+- Business Process Analysis
+  
 ## 💼 Experience
 ## Data Analyst Trainee – AI Variant 
 - Worked on Insurance Analytics and Healthcare Analytics projects.
