@@ -46,4 +46,4 @@ Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcar
 ## 📬 Contact
 - 📞 Phone: +91 7981524920
 - 📧 Email: g.yuvateja1870@gmail.com
-- 🔗 LinkedIn: - https://www.linkedin.com/in/gude-yuvateja-04696a370/
+- 🔗 LinkedIn: https://www.linkedin.com/in/gude-yuvateja-04696a370/
