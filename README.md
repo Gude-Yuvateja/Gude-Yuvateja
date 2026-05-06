@@ -13,11 +13,11 @@ Aspiring Data Analyst with 9 months of hands-on experience in data analysis, bus
 - Data Engineering Concepts: ETL, Data Warehousing, Star Schema, Medallion Architecture
 
 ## 💼 Experience
-## Data Analyst Trainee – AI Variant 
-- Worked on Insurance Analytics and Healthcare Analytics projects.
-- Analyzed claims, policy, and patient datasets using SQL and Excel.
-- Performed data cleaning, transformation, and KPI analysis (loss ratio, follow-up rate, doctor workload).
-- Built interactive dashboards in Power BI and Tableau to support business decision-making.
+## Data Analyst Trainee – ExcelR Solutions
+- Worked on data analysis and visualization projects using SQL, Excel, Power BI, and Tableau.
+- Performed data cleaning, transformation, and reporting to generate business insights from datasets.
+- Developed interactive dashboards and KPI reports for data-driven decision-making.
+- Assisted in analyzing large datasets and creating visual reports across multiple business domains.
 
 ## 📊 Projects
 
