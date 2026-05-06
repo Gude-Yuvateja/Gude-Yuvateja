@@ -2,19 +2,16 @@
 ## 💼 Data Analyst | Business Analyst
 
 ## 🚀 About Me
-Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcare Analytics, and Data Warehouse projects. Skilled in SQL, Python, Power BI, Excel, and Exploratory Data Analysis (EDA). Strong understanding of data cleaning, transformation, KPI analysis, and dashboard development. Experienced in writing complex queries and building end-to-end analytics solutions. Building data-driven projects to solve real-world problems.
+Aspiring Data Analyst with 9 months of hands-on experience in data analysis, business intelligence, and dashboard development. Proficient in SQL, Excel, Power BI, and Tableau with experience analyzing large datasets, building interactive dashboards, and generating actionable business insights. Worked on multiple domain-based analytics projects including Insurance, Healthcare, Airlines, Data Warehousing, and SQL Analytics. Strong understanding of data cleaning, transformation, ETL processes, KPI reporting, and data visualization to support business decision-making.
 
 ## 🛠️ Skills
-- SQL
-- Power BI & Tableau  
-- Advanced Excel  
-- Python
-- ETL & Data Warehouse   
-- Data Cleaning & KPI Analysis
-- Data modeling
-- stakeholder Communication
-- Business Process Analysis
-  
+- Programming & Database: SQL, Python (Basics)
+- Visualization Tools: Power BI, Tableau
+- Spreadsheet Tools: Microsoft Excel
+- Data Analytics: Data Analysis, Data Cleaning, Data Transformation
+- Reporting & Dashboarding: KPI Reporting, Dashboard Development, Data Visualization
+- Data Engineering Concepts: ETL, Data Warehousing, Star Schema, Medallion Architecture
+
 ## 💼 Experience
 ## Data Analyst Trainee – AI Variant 
 - Worked on Insurance Analytics and Healthcare Analytics projects.
@@ -32,11 +29,15 @@ Aspiring Data Analyst with hands-on experience in Insurance Analytics, Healthcar
 - Evaluated patient data, follow-up rates, and doctor workload.
 - Tools: SQL, Excel, Power BI, Tableau.
   
-## 3️⃣ SQL Data Warehouse Project
+## 3️⃣ High Cloud Airlines Analytics Project
+- Analyzed airline flight data to identify passenger trends, route performance, and airline operations insights.
+- Tools: SQL, Excel, Power BI, Tableau.
+
+## 4️⃣ SQL Data Warehouse Project
 - Designed fact and dimension tables using star schema.
 - Implemented ETL processes and optimized queries in SQL Server.
 
-## 4️⃣ SQL Data Analytics Project
+## 5️⃣ SQL Data Analytics Project
 - Performed joins, aggregations, subqueries, and window functions to analyze KPIs.
   
 ## 🎓 Certifications
